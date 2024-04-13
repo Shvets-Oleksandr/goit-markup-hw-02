@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-WebStudio HTML skeleton hw-01
+# goit-markup-hw-02
+WebStudio CSS hw-02
